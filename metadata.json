@@ -1,0 +1,13 @@
+{
+  "name": "maptiles_up",
+  "version": "1.0.0",
+  "description": "",
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "jpg",
+  "minzoom": "11",
+  "maxzoom": "16",
+  "bounds": "9.53991001,46.92964881,9.65699590,46.98576475",
+  "scale": "1",
+  "profile": "mercator"
+}
